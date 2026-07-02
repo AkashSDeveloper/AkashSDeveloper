@@ -7,7 +7,11 @@ Email Me 👉 ✉️ **sonwaneakash6124@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** sonwaneakash6124@gmail.com
 - 😄 **Pronouns:** Akash Sonwane
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+ <!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkashSDeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
