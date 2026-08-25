@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Akash Sonwane
+# 💫 Hi 👋, I'm Akash Sonwane 😊😊
 **Full Stack .Net Developer**
 
 Email Me 👉 ✉️ **sonwaneakash6124@gmail.com** For Collaboration/Project or Anything Else. 😊😊
