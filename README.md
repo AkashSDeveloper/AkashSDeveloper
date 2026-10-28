@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Akash Sonwane 
 **Full Stack .Net Developer**
 
-Email Me 👉 ✉️ **sonwaneakash6124@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **akashsonwane362@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working with:** Western Ocean Software Solutions
-- 📫 **How to reach me:** sonwaneakash6124@gmail.com
+- 📫 **How to reach me:** akashsonwane362@gmail.com
 - 😄 **Pronouns:** Akash Sonwane
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
  <!-- Snake Game Repo View -->
