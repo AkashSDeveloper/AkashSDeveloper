@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **sonwaneakash6124@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working with:** ProAzure Software
+- 🔭 **I’m currently working with:** Western Ocean Software Solutions
 - 📫 **How to reach me:** sonwaneakash6124@gmail.com
 - 😄 **Pronouns:** Akash Sonwane
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
